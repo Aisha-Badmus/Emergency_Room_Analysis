@@ -9,6 +9,6 @@ Insights and recommendations focus on:
   - **Wait times:** An assessment of wait times across demographics and service types, such as walk-in vs. referred patients.
   - **Patient Satisfaction:** An analysis to understand patients' satisfaction  across demographics and service types.
 
-An interactive PowerBI dashboard can be downloaded here
+An interactive PowerBI dashboard can be downloaded here\
 Targeted SQL queries regarding various business questions can be found here
 
