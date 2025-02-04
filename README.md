@@ -16,7 +16,7 @@ Targeted SQL queries regarding various business questions can be found here
 Patient database structure as seen below consists of a table: **Patient** with a total row count of 9,216 records.\
 Below are the columns, datatype, and descriptions for better understanding.
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets.\ 
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets.\
 Power BI was used to inspect and perform the quality checks including:
 -	Creating new time and moment columns from the date column,
 -	Merging first and last name columns,
