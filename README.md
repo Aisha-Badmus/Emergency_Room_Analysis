@@ -34,10 +34,12 @@ Below is a snapshot of the Power BI dashboard. The interactive dashboard can be 
 **1.	Demographic Dominance and Service Utilization**
 - Adults (77% of total visits) are the primary users of ER services, suggesting resource allocation should focus on this group.
 - Average wait time is higher in the mornings with 35.53 minutes, suggesting a need for additional staffing and resources during this time.
-- Admitted patients have lower waiting times and better satisfaction scores suggesting good service those admitted.\
+- Admitted patients have lower waiting times and better satisfaction scores suggesting good service those admitted.
+
 **2.	Waiting Times**
 - Patients referred to departments like Neurology and Cardiology exhibit the longest wait times (37 and 35 minutes, respectively), indicating some operational inefficiencies.
-- Heatmap indicates that patients aged 51-60 and 70+ have the highest average wait times across multiple racial groups showing a potential inefficiency in handling elderly patients.\
+- Heatmap indicates that patients aged 51-60 and 70+ have the highest average wait times across multiple racial groups showing a potential inefficiency in handling elderly patients.
+
 **3.	Satisfaction Disparities**
 - Racial disparities are evident, with African Americans reporting lower satisfaction scores compared to other groups indicating potential bias or communication gaps.
 - Walk-in patients are more satisfied than referred patients, highlighting the need to streamline referral processes to improve satisfaction for referred patients.
