@@ -5,9 +5,9 @@ This dashboard demonstrates actionable insights derived from the emergency room 
 The project involves analyzing emergency room (ER) visit data to assess operational efficiency, patient satisfaction, and service delivery across different demographics. The analysis aims to uncover actionable insights and provide strategic recommendations for improving ER operations and patient experience.
 
 Insights and recommendations focus on:  
-  - **Trends in ER visits:** Evaluation of patients visiting the ER, demographics (age, gender, race), and service types (admission status, patient type).
-  - **Wait times:** An assessment of wait times across demographics and service types, such as walk-in vs. referred patients.
-  - **Patient Satisfaction:** An analysis to understand patients' satisfaction  across demographics and service types.
+**1. Trends in ER visits:** Evaluation of patients visiting the ER, demographics (age, gender, race), and service types (admission status, patient type).\
+**2. Wait times:** An assessment of wait times across demographics and service types, such as walk-in vs. referred patients.\
+**3. Patient Satisfaction:** An analysis to understand patients' satisfaction  across demographics and service types.\
 
 An interactive PowerBI dashboard can be downloaded here\
 Targeted SQL queries regarding various business questions can be found here
@@ -18,11 +18,11 @@ Below are the columns, datatype, and descriptions for better understanding.
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets.\
 The dataset was imported from Excel. Power BI was used to inspect and clean the data including: 
--	Creating new time and moment columns from the date column,
--	Merging first and last name columns,
--	Adjusting data formats,
--	ensuring all records are complete, and
--	null values for the satisfaction score were left as it means customers didn't give any rating.
+1. Creating new time and moment columns from the date column,\
+2. Merging first and last name columns,\
+3. Adjusting data formats,\
+4. ensuring all records are complete, and\
+5. null values for the satisfaction score were left as it means customers didn't give any rating.
 
 ## Executive Summary
 ### Overview of Insights	
