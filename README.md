@@ -9,7 +9,7 @@ Insights and recommendations focus on:
 **2. Wait times:** An assessment of wait times across demographics and service types, such as walk-in vs. referred patients.\
 **3. Patient Satisfaction:** An analysis to understand patients' satisfaction  across demographics and service types.
 
-An interactive PowerBI dashboard can be downloaded here\
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/Aisha-Badmus/Emergency_Room_Analysis/blob/main/Patients%20Analysis.pbix)\
 Targeted SQL queries regarding various business questions can be found here
 
 ## Data Structure & Initial Checks 
@@ -29,7 +29,8 @@ The dataset is a csv file. Power BI was used to inspect and perform quality chec
 ### Overview of Insights	
 The total number of ER visits is 9,216, with a near-even split between male and female patients. Adults dominate the patient base with 77% of visits. The average wait time across all patients is 35.26 minutes, but this varies significantly by department referral and service type. The overall average satisfaction score is 5.47 with some disparities existing across races. ER visits peak in July and are lowest in February with higher visit volumes correlating with a slight increase in wait time and dip in average satisfaction scores.
 
-Below is a snapshot of the Power BI dashboard. The interactive dashboard can be downloaded here.
+Below is a snapshot of the Power BI dashboard. The interactive dashboard can be downloaded [here](https://github.com/Aisha-Badmus/Emergency_Room_Analysis/blob/main/Patients%20Analysis.pbix).
+![dashboard](https://github.com/Aisha-Badmus/Emergency_Room_Analysis/blob/main/Dashboard%201.jpg)
 
 ### Key Insights
 **1.	Demographic Dominance and Service Utilization**
