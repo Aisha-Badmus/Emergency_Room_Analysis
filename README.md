@@ -45,10 +45,10 @@ Below is a snapshot of the Power BI dashboard. The interactive dashboard can be 
 - Walk-in patients are more satisfied than referred patients, highlighting the need to streamline referral processes to improve satisfaction for referred patients.
 
 ## Recommendations
-**1. Resource Allocation:** Increase staffing and resource availability during the mornings to handle visit volumes effectively.
-**2. Optimizing Referrals:** Focus on reducing wait times in Neurology and Cardiology through better triaging, appointment scheduling, and resource allocation.
-**3. Addressing Racial Disparities:** Conduct additional research to understand why African Americans report lower satisfaction scores and implement targeted measures to address these concerns.
-**4. Implement an Age-Based Fast-Track System:** Prioritize elderly patients (51-60 and 70+ age groups) by introducing dedicated time slots or priority scheduling.
+**1. Resource Allocation:** Increase staffing and resource availability during the mornings to handle visit volumes effectively.\
+**2. Optimizing Referrals:** Focus on reducing wait times in Neurology and Cardiology through better triaging, appointment scheduling, and resource allocation.\
+**3. Addressing Racial Disparities:** Conduct additional research to understand why African Americans report lower satisfaction scores and implement targeted measures to address these concerns.\
+**4. Implement an Age-Based Fast-Track System:** Prioritize elderly patients (51-60 and 70+ age groups) by introducing dedicated time slots or priority scheduling.\
 **5. Enhance Patient Communication:** Improve communication with referred and non-admitted patients to mitigate dissatisfaction. This includes providing clear expectations about wait times and processes.
 
 
