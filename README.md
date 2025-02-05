@@ -22,8 +22,8 @@ The dataset is a csv file. Power BI was used to inspect and perform quality chec
 1. Creating new time and moment columns from the date column,  
 2. Merging first and last name columns,  
 3. Adjusting data formats,  
-4. ensuring all records are complete, and  
-5. null values for the satisfaction score were left as it means customers didn't give any rating.
+4. Ensuring all records are complete, and  
+5. Null values for the satisfaction score were left as it means customers didn't give any rating.
 
 ## Executive Summary
 ### Overview of Insights	
