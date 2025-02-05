@@ -7,7 +7,7 @@ The project involves analyzing emergency room (ER) visit data to assess operatio
 Insights and recommendations focus on:  
 **1. Trends in ER visits:** Evaluation of patients visiting the ER, demographics (age, gender, race), and service types (admission status, patient type).\
 **2. Wait times:** An assessment of wait times across demographics and service types, such as walk-in vs. referred patients.\
-**3. Patient Satisfaction:** An analysis to understand patients' satisfaction  across demographics and service types.\
+**3. Patient Satisfaction:** An analysis to understand patients' satisfaction  across demographics and service types.
 
 An interactive PowerBI dashboard can be downloaded here\
 Targeted SQL queries regarding various business questions can be found here
@@ -17,7 +17,7 @@ Patient database structure as seen below consists of a table: **Patient** with a
 Below are the columns, datatype, and descriptions for better understanding.
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets.\
-The dataset was imported from Excel. Power BI was used to inspect and clean the data including: 
+The dataset was imported from Excel. Power BI was used to inspect and clean the data including:\ 
 1. Creating new time and moment columns from the date column,\
 2. Merging first and last name columns,\
 3. Adjusting data formats,\
