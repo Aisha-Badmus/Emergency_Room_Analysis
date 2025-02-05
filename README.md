@@ -15,7 +15,7 @@ Targeted SQL queries regarding various business questions can be found here
 ## Data Structure & Initial Checks 
 Patient database structure as seen below consists of a table: **Patient** with a total row count of 9,216 records.\
 Below are the columns, datatype, and descriptions for better understanding.
-![database structure]()
+![database structure](https://github.com/Aisha-Badmus/Emergency_Room_Analysis/blob/main/Db%20structure.jpg)
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets.\
 The dataset is a csv file. Power BI was used to inspect and perform quality checks including:\
