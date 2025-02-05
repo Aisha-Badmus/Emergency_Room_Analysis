@@ -15,12 +15,13 @@ Targeted SQL queries regarding various business questions can be found here
 ## Data Structure & Initial Checks 
 Patient database structure as seen below consists of a table: **Patient** with a total row count of 9,216 records.\
 Below are the columns, datatype, and descriptions for better understanding.
+![database structure]()
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets.\
-The dataset was imported from Excel. Power BI was used to inspect and clean the data including:\ 
-1. Creating new time and moment columns from the date column,\
-2. Merging first and last name columns,\
-3. Adjusting data formats,\
+The dataset is a csv file. Power BI was used to inspect and perform quality checks including:\
+1. Creating new time and moment columns from the date column,  
+2. Merging first and last name columns,  
+3. Adjusting data formats,  
 4. ensuring all records are complete, and\
 5. null values for the satisfaction score were left as it means customers didn't give any rating.
 
